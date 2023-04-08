@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/portafolio-ivan/static/css/main.073c9b0a.css",
-    "main.js": "/portafolio-ivan/static/js/main.7806c29a.js",
-    "static/js/787.ae0d8d37.chunk.js": "/portafolio-ivan/static/js/787.ae0d8d37.chunk.js",
-    "static/media/logo.svg": "/portafolio-ivan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portafolio-ivan/static/css/main.3e72b860.css",
+    "main.js": "/portafolio-ivan/static/js/main.3734eaca.js",
+    "static/media/projectmetro.png": "/portafolio-ivan/static/media/projectmetro.63995eea5601298f3373.png",
+    "static/media/projectwasstory.png": "/portafolio-ivan/static/media/projectwasstory.a05957a6d69c007bdd7b.png",
+    "static/media/background.jpg": "/portafolio-ivan/static/media/background.0dc4ae95a7bfe9baee0a.jpg",
+    "static/media/projectapp.png": "/portafolio-ivan/static/media/projectapp.5c8d56968ff4277121e5.png",
+    "static/media/cv-ivan.pdf": "/portafolio-ivan/static/media/cv-ivan.02916a0b2832097844f9.pdf",
+    "static/media/projectmiblog.jpg": "/portafolio-ivan/static/media/projectmiblog.ee7a9652df43d61c32e9.jpg",
+    "static/media/juegos-icon.png": "/portafolio-ivan/static/media/juegos-icon.889501233ff13ab569c1.png",
+    "static/media/icon2.png": "/portafolio-ivan/static/media/icon2.ba19a6f043be35af6b3b.png",
+    "static/media/icon5.png": "/portafolio-ivan/static/media/icon5.f0bc666992254b8b0d52.png",
     "index.html": "/portafolio-ivan/index.html",
-    "main.073c9b0a.css.map": "/portafolio-ivan/static/css/main.073c9b0a.css.map",
-    "main.7806c29a.js.map": "/portafolio-ivan/static/js/main.7806c29a.js.map",
-    "787.ae0d8d37.chunk.js.map": "/portafolio-ivan/static/js/787.ae0d8d37.chunk.js.map"
+    "main.3e72b860.css.map": "/portafolio-ivan/static/css/main.3e72b860.css.map",
+    "main.3734eaca.js.map": "/portafolio-ivan/static/js/main.3734eaca.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7806c29a.js"
+    "static/css/main.3e72b860.css",
+    "static/js/main.3734eaca.js"
   ]
 }
