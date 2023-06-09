@@ -239,7 +239,8 @@ class Home extends Component {
                                                                 <div>
                                                                 <FontAwesomeIcon icon={faEnvelope} className="icon" />
                                                                 <h6>ivan_m_rst@hotmail.com</h6>
-                                                                </div>                              
+                                                                </div>                       
+                                                                <br />        
                                                                 <div className="contact-phone">
                                                                     <FontAwesomeIcon icon={faPhone} className="icon" />
                                                                     <h6>33 34 03 79 14</h6>
