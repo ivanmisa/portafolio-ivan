@@ -259,7 +259,7 @@ class Home extends Component {
                                                             <div className="data-description">
                                                                 <ul>
                                                                     <li>
-                                                                        Electronic Technician – CECyTEC / 2011 - 2014
+                                                                        Electronic Technician – CECyTEJ 2011 - 2014
                                                                     </li>
                                                                     <li>
                                                                         Energy Engineering – UdeG - Centro universitario de Tonalá 
@@ -282,7 +282,10 @@ class Home extends Component {
                                                                         Database: MongoDb, MySQL and PostgreSQL.
                                                                     </li>
                                                                     <li>
-                                                                        Angular, NodeJs, Express.
+                                                                        Web development: Angular, NodeJs, Express.
+                                                                    </li>
+                                                                    <li>
+                                                                        Testing: Selenium IDE, Cypress, Jmeter.
                                                                     </li>
                                                                     <li>
                                                                         English: Intermediate (B1).
@@ -308,7 +311,7 @@ class Home extends Component {
                                                                     <li>Develop and modify functions in Python.</li>
                                                                     <li>Analyze customer requirements to detect needs and propose solutions.</li>
                                                                     <li>Training end users.</li>
-                                                                    <li>Unit and integral tests, Load testing, Selenium IDE.</li>
+                                                                    <li>Unit and integral tests, Load testing.</li>
                                                                     <li>Software testing documentation</li>
                                                                 </ul>
                                                             </div>
@@ -324,7 +327,7 @@ class Home extends Component {
                                                                     <li>Backend: Nodejs and express.</li>                                                                    
                                                                     <li>Socket.IO for real-time messaging and notifications.</li>
                                                                     <li>Cloud deployment (DigitalOcean).</li>
-                                                                    <li>CI/CD flow with Github actions</li>
+                                                                    <li>Continuous delivery (CD) flow with Github actions</li>
                                                                     <li>AWS S3 for image storage</li>
                                                                     <li>MongoDB database.</li>
                                                                     <li>Develop mobile application with Ionic/Angular (playstore).</li>
@@ -339,13 +342,13 @@ class Home extends Component {
                                                             </div>                                           
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
-                                                                <ul>
-                                                                    <li>Be trained in internal systems managed by IBM.</li>
+                                                                <ul>                                             
                                                                     <li>Server configuration.</li>
                                                                     <li>Functional tests, diagnosis and repair of systems.</li>
                                                                     <li>Express equipment repair.</li>
                                                                     <li>Debugging of ibm servers.</li>
                                                                     <li>Working with Linux.</li>
+                                                                    <li>Be trained in internal systems managed by IBM.</li>
                                                                     <li>Bug documentation.</li>
                                                                     <li>Ensure product flow to the next process.</li>
                                                                 </ul>
@@ -571,7 +574,7 @@ class Home extends Component {
                                 <Draggable handle="strong" position={this.state.controlledPositionGame} onDrag={this.onControlledDragGame}>             
                                     <div className="box no-cursor" style={{display: 'flex', flexDirection: 'column', visibility: 'hidden'}}>
                                         <div id="window-games">
-                                            <strong className="cursor justify-content-between d-flex"><div className="window-name"> Portafolio de proyectos</div><div className="close" onClick={this.windowGameClose} onTouchEnd={this.windowGameCloseDevice}>X</div></strong>
+                                            <strong className="cursor justify-content-between d-flex"><div className="window-name"> Card Game</div><div className="close" onClick={this.windowGameClose} onTouchEnd={this.windowGameCloseDevice}>X</div></strong>
                                             
                                             <div className="body-window">
                                                 <div className="topic">
