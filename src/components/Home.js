@@ -302,7 +302,7 @@ class Home extends Component {
                                                         </div>
                                                         <div className="data-description">
                                                             <div className="job">
-                                                                <span>Software enginner Jr at ASSETEL <div style={{fontSize: '12px'}}>August  2022  – Present</div></span>
+                                                                <span>Software enginner at ASSETEL <div style={{fontSize: '12px'}}>August  2022  – Present</div></span>
                                                             </div>
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
