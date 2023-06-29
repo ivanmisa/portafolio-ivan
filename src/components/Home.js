@@ -286,7 +286,7 @@ class Home extends Component {
                                                                         Web development: Angular, NodeJs, Express.
                                                                     </li>
                                                                     <li>
-                                                                        Testing: Selenium IDE, Cypress, Jmeter.
+                                                                        Testing: Selenium IDE, Cypress, Jmeter(Basic), Postman.
                                                                     </li>
                                                                     <li>
                                                                         English: Intermediate (B1).
@@ -307,6 +307,7 @@ class Home extends Component {
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
                                                                 <ul>
+                                                                    <li>Configure, develop and integrate the open source business management system Odoo (ERP) to adapt it to the needs of the organization.</li>
                                                                     <li>Develop or modify Odoo modules.</li>
                                                                     <li>Development of Qweb reports and XML views.</li>
                                                                     <li>Develop and modify functions in Python.</li>
