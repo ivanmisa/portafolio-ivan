@@ -311,10 +311,12 @@ class Home extends Component {
                                                                     <li>Develop or modify Odoo modules.</li>
                                                                     <li>Development of Qweb reports and XML views.</li>
                                                                     <li>Develop and modify functions in Python.</li>
-                                                                    <li>Analyze customer requirements to detect needs and propose solutions.</li>
+                                                                    <li>Analyze customer requirements to detect needs.</li>
                                                                     <li>Training end users.</li>
-                                                                    <li>Unit and integral tests, Load testing.</li>
-                                                                    <li>Software testing documentation</li>
+                                                                    <li>Unit and integral tests.</li>
+                                                                    <li>End to end test and load testing.</li>
+                                                                    <li>Create and develop test plan.</li>
+                                                                    <li>Create, design and document test cases.</li>
                                                                 </ul>
                                                             </div>
                                                             <br /> 
