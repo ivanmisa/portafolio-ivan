@@ -274,7 +274,7 @@ class Home extends Component {
                                                             <div className="data-description">
                                                                 <ul>
                                                                     <li>
-                                                                        JavaScript, Python and  Typescript.
+                                                                        JavaScript, Python and  Typescript, Git, Github, Docker.
                                                                     </li>
                                                                     <li>
                                                                         Linux (Ubuntu).
@@ -308,9 +308,8 @@ class Home extends Component {
                                                                 <span>Responsibilities:</span>
                                                                 <ul>
                                                                     <li>Configure, develop and integrate the open source business management system Odoo (ERP) to adapt it to the needs of the organization.</li>
-                                                                    <li>Develop or modify Odoo modules.</li>
                                                                     <li>Development of Qweb reports and XML views.</li>
-                                                                    <li>Develop and modify functions in Python.</li>
+                                                                    <li>Develop and modify modules in Python.</li>
                                                                     <li>Analyze customer requirements to detect needs.</li>
                                                                     <li>Training end users.</li>
                                                                     <li>Unit and integral tests.</li>
@@ -363,11 +362,11 @@ class Home extends Component {
                                                         </div>
                                                         <div className="user-points">
                                                             <ul>
-                                                                <li>Responsible</li>
+                                                                <li>Teamwork</li>
                                                                 <li>Autodidact</li>
-                                                                <li>Ease of learning</li>
-                                                                <li>Work under pressure</li>
-                                                                <li>Ease of teamwork</li>
+                                                                <li>Fast learning</li>
+                                                                <li>Logical and analytical thinking</li>
+                                                                <li>Disipline</li>
                                                             </ul>
                                                         </div>
                                                         <div className="topic-description" style={{display: 'none'}}>
