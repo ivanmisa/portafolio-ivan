@@ -286,7 +286,7 @@ class Home extends Component {
                                                                         Web development: Angular, NodeJs, Express.
                                                                     </li>
                                                                     <li>
-                                                                        Testing: Selenium IDE, Cypress, Jmeter(Basic), Postman.
+                                                                        Testing: Selenium/Java/Cucumber, Cypress, Jmeter(Basic), Postman.
                                                                     </li>
                                                                     <li>
                                                                         English: Intermediate (B1).
@@ -302,7 +302,7 @@ class Home extends Component {
                                                         </div>
                                                         <div className="data-description">
                                                             <div className="job">
-                                                                <span>Software enginner at ASSETEL <div style={{fontSize: '12px'}}>August  2022  – Present</div></span>
+                                                                <span>Software enginner at ASSETEL <div style={{fontSize: '12px'}}> 2022  – Present</div></span>
                                                             </div>
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
@@ -313,7 +313,7 @@ class Home extends Component {
                                                                     <li>Analyze customer requirements to detect needs.</li>
                                                                     <li>Training end users.</li>
                                                                     <li>Unit and integral tests.</li>
-                                                                    <li>End to end test and load testing.</li>
+                                                                    <li>End to end test (Manual and Automared) and load testing.</li>
                                                                     <li>Create and develop test plan.</li>
                                                                     <li>Create, design and document test cases.</li>
                                                                 </ul>
@@ -321,7 +321,7 @@ class Home extends Component {
                                                             <br /> 
                                                             <br /> 
                                                             <div className="job">
-                                                                <span>Web developer at likeoh <div style={{fontSize: '12px'}}>March 2021 – July 2022</div></span>
+                                                                <span>Web developer at likeoh <div style={{fontSize: '12px'}}> 2021 – 2022</div></span>
                                                             </div>                                           
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
@@ -341,7 +341,7 @@ class Home extends Component {
                                                             <br />  
                                                             <br />                                                  
                                                             <div className="job">
-                                                                <span>Test analyzer (Power systems) at IBM  <div style={{fontSize: '12px'}}> April 2020 – January 2021</div></span>
+                                                                <span>Test analyzer (Power systems) at IBM  <div style={{fontSize: '12px'}}> 2020 – 2021</div></span>
                                                             </div>                                           
                                                             <div className="description-job">
                                                                 <span>Responsibilities:</span>
@@ -380,9 +380,7 @@ class Home extends Component {
                                                         </div>
                                                     </div>
                                                     <div className="conainer-cv">
-                                                        <div className="button-download">
-                                                            <a href={cv} target="_blank">View/Download CV</a>
-                                                        </div>
+                                                     
                                                     </div>
                                                 </div>                                     
                                         </div>
